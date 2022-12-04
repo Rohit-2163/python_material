@@ -1,6 +1,5 @@
 def compute(string):
     obj = dict()
-    print(obj)
     for i in string:
         print(obj)
         if i in obj:
